@@ -4,8 +4,7 @@ title: "Bienvenue sur Loulou indexmsg"
 description: "Vos source de index meilleures 
 ---
 
-
-#   Découvrez les meilleures opportunités sponsorisées 
+#Découvrez les meilleures opportunités sponsorisées 
 
 <!-- Page d'accueil -->
 <a href="page1/" class="bouton-acceuil">Travail à Tamatave</a>
