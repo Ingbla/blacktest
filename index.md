@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "jobmoov"
+title: " "
 description: "Vos source de index meilleures" 
 ---
 
-# Découvrez les meilleures opportunités sponsorisées 
+# jobmoov.bond
 
 <!-- Page d'accueil -->
 <a href="page1/" class="bouton-acceuil">Travail à Tamatave</a>
