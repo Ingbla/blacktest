@@ -18,8 +18,8 @@ head:
 
   
 #baseur
-baseurl: "/blacktest"
-
+baseurl: ""
+url: "https://jobmoov.bond"
 
 
 # Paramètres par défaut pour les pages
